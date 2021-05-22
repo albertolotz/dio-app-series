@@ -1,0 +1,16 @@
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/bin/Debug/net5.0/AppSeries
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/bin/Debug/net5.0/AppSeries.deps.json
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/bin/Debug/net5.0/AppSeries.runtimeconfig.json
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/bin/Debug/net5.0/AppSeries.runtimeconfig.dev.json
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/bin/Debug/net5.0/AppSeries.dll
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/bin/Debug/net5.0/ref/AppSeries.dll
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/bin/Debug/net5.0/AppSeries.pdb
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/obj/Debug/net5.0/AppSeries.csprojAssemblyReference.cache
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/obj/Debug/net5.0/AppSeries.GeneratedMSBuildEditorConfig.editorconfig
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/obj/Debug/net5.0/AppSeries.AssemblyInfoInputs.cache
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/obj/Debug/net5.0/AppSeries.AssemblyInfo.cs
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/obj/Debug/net5.0/AppSeries.csproj.CoreCompileInputs.cache
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/obj/Debug/net5.0/AppSeries.dll
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/obj/Debug/net5.0/ref/AppSeries.dll
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/obj/Debug/net5.0/AppSeries.pdb
+/home/lotz/dio-study/Criando APP cad series dotNET/AppSeries/obj/Debug/net5.0/AppSeries.genruntimeconfig.cache
